@@ -8,4 +8,4 @@ namespace: hello-gitops
 images:
 - name: hello-gitops
   newName: naz2001r/hello-gitops
-  newTag: 16c099dbad15d018a97bece27fba3b499ea16413
+  newTag: 51df2746b797b4211c891dfa74b462a32ab61a7c
